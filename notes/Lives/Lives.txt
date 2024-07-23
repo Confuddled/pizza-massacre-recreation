@@ -1,0 +1,4 @@
+You have lives
+If you die  you have the bloody death animation
+
+If you have 0 lives left you have the dissovle animation

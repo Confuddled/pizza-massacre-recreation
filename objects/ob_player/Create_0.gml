@@ -1,0 +1,12 @@
+audio_play_sound(sn_lobbyplaceholder, 0, true)
+xsp = 0
+ysp = 0
+grav = .8
+movesp = 5
+chosenjump = 0
+running = 0
+screaming = 0
+state = "normal"
+onFloor = 0
+global.hp = 8
+invis = 0
